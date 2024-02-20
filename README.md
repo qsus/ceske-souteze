@@ -26,6 +26,7 @@ Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejmén
 |listopad|1|[Matematická olympiáda](https://www.matematickaolympiada.cz/mo-pro-ss/)||
 |listopad|1|[Bobřík informatiky](https://www.ibobr.cz/)||
 |listopad|1|[Kasiopea](https://kasiopea.matfyz.cz/)||
+|listopad|2-3|[Tour de App](https://tourdeapp.cz/,)||
 |||[]()||
 |neznámé|1|[Ksí](https://ksi.fi.muni.cz/)||
 |neznámé|1|[Matematický klokan](http://www.matematickyklokan.net)||
