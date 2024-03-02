@@ -9,7 +9,7 @@ Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejmén
 |leden|1|[Olympiáda v ČJ]()||
 |leden|1|[Zeměpisná olympiáda](https://www.zemepisnaolympiada.cz/)||
 |únor||[Súťaž v šifrovaní](https://susi.trojsten.sk/)|i v září|
-|březen||[Sendvič](https://www.hrasendvic.cz/)||
+|březen||[Sendvič](https://www.hrasendvic.cz/)|první sobota v březnu|
 |duben|4-5|[Náboj](https://math.naboj.org/cz/cs/)||
 |červenec|1|[IMO](https://www.imo-official.org/)|Mezinárodní matematická olympiáda|
 |červenec||[MEMO](https://memo-official.org/MEMO/)||
