@@ -1,5 +1,5 @@
 # Soutěže v česku
-Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejména pro středoškoláky, ale i základoškoláky a dospělé. Aktuální seznam je v tabulce [souteze.csv](souteze.csv), kterou GitHub umí pěkně zobrazit.
+Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejména pro středoškoláky, ale i základoškoláky a dospělé. Aktuální seznam je v tabulce [souteze.csv](souteze.csv), kterou GitHub umí pěkně zobrazit. Měsíc konání by měl odpovídat termínu, kdy soutěž začíná, nebo kdy je potřeba se zaregistrovat.
 ## TODO:
 - Upozorňování na soutěže pomocí webhooků, emailů, ...
 - Přidat další soutěže a kontrolovat aktuálnost
@@ -11,6 +11,7 @@ Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejmén
 |únor||[Súťaž v šifrovaní](https://susi.trojsten.sk/)|i v září|
 |březen|1-5|[Sendvič](https://www.hrasendvic.cz/)|první sobota v březnu|
 |duben|4-5|[Náboj](https://math.naboj.org/cz/cs/)||
+|červenec||[Czech Open](https://www.czechopen.net/)|velký festival šachů a dalších her (go, mankala, piškvorky, dáma, ...) v Pardubicích|
 |červenec|1|[IMO](https://www.imo-official.org/)|Mezinárodní matematická olympiáda|
 |červenec||[MEMO](https://memo-official.org/MEMO/)||
 |září||[Hradecká sova](https://hksova2.gipix.net/)||
