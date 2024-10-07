@@ -9,6 +9,7 @@ Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejmén
 |leden|1|[Olympiáda v ČJ]()||
 |leden|1|[Zeměpisná olympiáda](https://www.zemepisnaolympiada.cz/)||
 |únor||[Súťaž v šifrovaní](https://susi.trojsten.sk/)|i v září|
+|únor|1|[Soutěž v programování](https://talentovani.cz/souteze/soutez-v-programovani)|2024: https://prog.barak.cz/, 2025: https://programuj.si/|
 |březen|1-5|[Sendvič](https://www.hrasendvic.cz/)|první sobota v březnu|
 |duben|4-5|[Náboj](https://math.naboj.org/cz/cs/)||
 |červenec||[Czech Open](https://www.czechopen.net/)|velký festival šachů a dalších her (go, mankala, piškvorky, dáma, ...) v Pardubicích|
