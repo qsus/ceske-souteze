@@ -33,3 +33,5 @@ Ručně udržovaný seznam soutěží pořádaných v Česku, určených zejmén
 |neznámé|1|[Ksí](https://ksi.fi.muni.cz/)||
 |neznámé|1|[Matematický klokan](http://www.matematickyklokan.net)||
 |průběžně||[PraSe](https://prase.cz/commentary/aktualni.php)|na webu jsou v průběhu roku úkoly|
+## Další
+[Šifrovačky.cz](https://sifrovacky.cz/kalendar/) - seznam šifrovacích her, zejména týmových
